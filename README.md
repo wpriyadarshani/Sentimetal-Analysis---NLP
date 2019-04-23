@@ -1,5 +1,8 @@
 # sentimetalanalysis
 twitter data to sentimetal analysis
+What is sentimental analysis?
+- Opinion mining 
+- Qualitative analysis of user's contents, ideas, beliefs, and options are considering to sentiment analysis
 
 Why and where?
 
