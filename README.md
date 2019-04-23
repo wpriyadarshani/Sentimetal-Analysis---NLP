@@ -1,5 +1,6 @@
 # sentimetalanalysis
-twitter data to sentimetal analysis
+twitter data to sentimetal analysis - Big Data Project
+
 
 What is sentimental analysis?
 - Opinion mining 
